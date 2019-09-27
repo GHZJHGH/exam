@@ -11,5 +11,4 @@ public class data {
 	public void savetofile() throws IOException{
 		data = new ArrayList<Student>();
 	}
-	
 }
